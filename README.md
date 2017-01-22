@@ -5,3 +5,4 @@ displayships variables (the objects which store the properties of the ships duri
 been placed inside of the Human class.
 The hardest thing about reading this code is finding out what does what. It's been so long since I wrote the code, I can't remember how
 everything works, so putting notes on everything would be a pretty tedious task.
+You might find some tools in the code, but this isn't something to study.
