@@ -2,7 +2,7 @@
 #include "vars.h"
 
 /*
- * Class creates the squares on the CPU's board. It also creates the signals and slots needed for
+ * Class creates the squares on the CPU's board. It also is what accepts mouse input for firing at squares.
 */
 
 boardsquare::boardsquare(QGraphicsScene *Mscene, int size, int x, int y, int n, int m)
