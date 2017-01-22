@@ -1,0 +1,2 @@
+
+NOTE FOR CENTERING SCENE (for future programs): To set the sceneRect within code, use the setSceneRect function (part of QGraphicsView) and specify X, Y, Width, and Height. Set X and Y to 0.
